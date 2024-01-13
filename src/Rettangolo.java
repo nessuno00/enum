@@ -9,7 +9,7 @@ public class Rettangolo  extends  Forma {
         super(TipoForma.Rettangolo);
 
                 this.base = base;
-        this.altezza = altezza
+        this.altezza = altezza;
     }
 
     @Override
